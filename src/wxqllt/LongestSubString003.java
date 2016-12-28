@@ -6,6 +6,12 @@ import java.util.Map;
 
 import javax.xml.transform.Templates;
 
+/***
+ * int[256]记录每个字符的位置
+ * 最长不重复子串
+ * @author wxqllt
+ *
+ */
 public class LongestSubString003 {
 	
 	 public int lengthOfLongestSubstring(String s) {
